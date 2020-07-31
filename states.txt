@@ -3,4 +3,8 @@ Virginia
 Florida
 California
 Utah
+<<<<<<< Updated upstream
 Connecticut
+=======
+Mississippi
+>>>>>>> Stashed changes
